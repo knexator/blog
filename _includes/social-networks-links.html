@@ -1,5 +1,41 @@
 <ul class="list-inline text-center footer-links">
 
+{%- if site.social-network-links.twitter -%}
+  <li class="list-inline-item">
+    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.itchio -%}
+  <li class="list-inline-item">
+    <a href="https://{{ site.social-network-links.itchio }}.itch.io/" title="Itchio">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-itch-io fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Itchio</span>
+   </a>
+  </li>
+{%- endif -%}
+  
+{%- if site.social-network-links.discord -%}
+  <li class="list-inline-item">
+    <a href="https://discord.com/{{ site.social-network-links.discord }}" title="Discord">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Discord</span>
+   </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.rss and site.rss-description -%}
   <li class="list-inline-item">
     <a href="{{ '/feed.xml' | relative_url }}" title="RSS">
@@ -57,30 +93,6 @@
       </span>
       <span class="sr-only">Telegram</span>
     </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.github -%}
-  <li class="list-inline-item">
-    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">GitHub</span>
-   </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.twitter -%}
-  <li class="list-inline-item">
-    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Twitter</span>
-   </a>
   </li>
 {%- endif -%}
 
@@ -288,26 +300,14 @@
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.itchio -%}
+{%- if site.social-network-links.github -%}
   <li class="list-inline-item">
-    <a href="https://{{ site.social-network-links.itchio }}.itch.io/" title="Itchio">
+    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-itch-io fa-stack-1x fa-inverse"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
       </span>
-      <span class="sr-only">Itchio</span>
-   </a>
-  </li>
-{%- endif -%}
-  
-{%- if site.social-network-links.discord -%}
-  <li class="list-inline-item">
-    <a href="https://discord.com/{{ site.social-network-links.discord }}" title="Discord">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Discord</span>
+      <span class="sr-only">GitHub</span>
    </a>
   </li>
 {%- endif -%}
