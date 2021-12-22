@@ -3,6 +3,20 @@ layout: default
 title: 404 - Page not found
 permalink: /404.html
 ---
+<script>
+let new_url = window.location.origin + "/old_page" + window.location.pathname
+var request;
+if(window.XMLHttpRequest)
+    request = new XMLHttpRequest();
+else
+    request = new ActiveXObject("Microsoft.XMLHTTP");
+request.open('GET', new_url, false);
+request.send(); // there will be a 'pause' here until the response to come.
+// the object request will be actually modified
+if (request.status !== 404) {
+    window.location.replace(new_url)
+}
+</script>
 
 <div class="text-center">
   <h1>Whoops, this page doesn't exist.</h1>
