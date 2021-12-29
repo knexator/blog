@@ -21,7 +21,7 @@ collections:
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Puzzles about Time Travel, classified: "/time-genres/"
+  Puzzles about Time Travel, categorized: "/time-genres/"
   # List of Things:
   #   - Thing 1: "https://link to thing 1"
   #   - Thing 2: "/thing2"
