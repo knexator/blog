@@ -7,7 +7,9 @@ tags: [time travel, puzzles]
 This model of time travel assumes the [growing block view](https://en.wikipedia.org/wiki/Growing_block_universe), in which time
 is built moment by moment, with the 'active' growing part being by definition the present. It then asks a simple question: what
 if we could undo this growth? That is, if the universe is a growing stack of instants, remove the top layers of this stack. Once
-the removal of layers stops, new layers grow on top of the new present, overwriting the undoed history.
+the removal of layers stops, new layers grow on top of the new present, overwriting the undoed history. In contrast to the
+[Spicy Undo](/time-genres/spicy-undo) model, nothing survives this undoing of history; only the player's memory, since they are external
+to the game world.
 
 This is a very natural and consistent model for time travel. There are no possible paradoxes: for example, an undoing-time maching can only
 take the universe to states it has already experienced, so you can't go back and kill baby-you (since there never has been a
