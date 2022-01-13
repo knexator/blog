@@ -53,7 +53,7 @@ Anyways, here are some games that explore this model:
 
 There's a common complaint about [Spicy Undo](/time-genres/spicy-undo) games: they lack a real undo! If there are objects immune to undo, moving
 them wrong means having to reset the whole level. The natural solution is to add another layer of undo; wouldn't it be fun, though,
-if there were objects that also resisted this extra layer of undo? This short block pusher examines this territory. Higly recommended (I might be biased on this one)
+if there were objects that also resisted this extra layer of undo? This short block pusher examines this cursed territory. Higly recommended (I might be biased on this one)
 
 ![Tres Undos](https://img.itch.zone/aW1hZ2UvMTIwMTY2My83NDQ5NDg1LnBuZw==/original/Kq16x%2B.png)
 

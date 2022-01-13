@@ -13,6 +13,27 @@ My main goal with this blog is to properly categorize all the different flavors 
 This blog will try to be an exhaustive list of all these flavors, but it wont try to be an exhaustive list of time travel puzzle games
 (or creating & maintaining it would be a full time job). In no particular order, these are all the unique models I've found so far:
 
-{% for time_genre in site.time_genres %}
- - [{{ time_genre.title}}]({{ time_genre.url }}) - {{ time_genre.subtitle }}
+{% capture time_genre_names %}
+glorified-undo
+spicy-undo
+serialism
+closed-timelike-curve
+{% endcapture %}
+{% assign time_genre_names = time_genre_names | strip | newline_to_br | strip_newlines | split: "<br />" %}
+
+{% assign done_time_genres = "" | split: ',' %}
+{% assign pending_time_genres = site.time_genres %}
+{% for cur_name in time_genre_names %}
+  {% assign cur_url = cur_name | prepend: "/time-genres/" | append: "/" %}
+  {% assign cur_time_genre = site.time_genres | where: "url", cur_url | first %}
+  {% assign done_time_genres = done_time_genres | push: cur_time_genre %}
+  {% assign pending_time_genres = pending_time_genres | where_exp: "item", "item.url != cur_url" %}
+{% endfor %}
+
+{% for time_genre in done_time_genres %}
+  - [{{ time_genre.title}}]({{ time_genre.url }}) - {{ time_genre.subtitle }}
+{%- endfor -%}
+
+{% for time_genre in pending_time_genres %}
+  - (WIP) [{{ time_genre.title}}]({{ time_genre.url }}) - {{ time_genre.subtitle }}
 {%- endfor -%}
