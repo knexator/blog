@@ -18,6 +18,7 @@ glorified-undo
 spicy-undo
 serialism
 closed-timelike-curve
+standard
 {% endcapture %}
 {% assign time_genre_names = time_genre_names | strip | newline_to_br | strip_newlines | split: "<br />" %}
 
