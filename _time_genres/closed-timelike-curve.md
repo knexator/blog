@@ -42,7 +42,7 @@ Highly recommended.
 -----
 
 
-### Variants and future work
+## Variants and future work
 
 A great way to understand the Eternalist view is by reading a comic: the comic book itself is fixed and unchanging, all frames are equally
 real, and yet when reading it we are tricked into thinking there's a passage of time with a past, present, and future. If comics serve to
