@@ -4,7 +4,43 @@ subtitle: Time travel in a single consistent timeline
 tags: [time travel, puzzles]
 ---
 
-idk any games in this category. the model is explored in Ted Chiangs' The Merchant and the Alchemist's Gate, etc.
+Time travel in fiction is usually used to explore themes such as fate and free will, by giving characters the tools to see their future 
+or visit their past and giving them the oportunity to change their actions. Does this mean that time travel is incompatible with [Eternalism](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)),
+the view that the future is as real and fixed as the present or the past? Not at all! Even in an unchanging universe where all of time is already
+laid out in a 4th dimension and history is fixed, time travel could still be possible: not to alter the past, but to cause it. For example, someone
+suddenly gets visited by their future self, who gives them the blueprints for a time machine; after some years building it, the machine is complete,
+so they use it to visit their past self and give them the blueprints. This story is logically consistent and compatible with a fixed universe in which
+time is an illusion and the past can't be changed. It presents an interesting question, though: who designed the time machine?
+
+In a universe with Closed Timelike Curves (the fancy name for consistent time travel),
+Nature must do some hard calculations to find a consistent timeline. In the same way that Nature must "compute" which is the shortest path for a light
+ray to travel between two points, it must also find which contents of the time machine will be stable. The main difference is that finding such a stable
+timeline is an NP-complete problem. For example, let's say we are given a sudoku puzzle. We start by getting a message from 5 minutes into the future:
+a potential solution for the sudoku. We then spend 5 minutes checking if the solution is valid. If it isn't, we change some number from it.
+In any case, we take the message and send it 5 minutes back in time. The message we send and the message we receive must be the same, so Nature must
+find the solution to that sudoku and we only have to do the easy part of verifying it (check out 
+[Scott Aaronson's lecture](https://www.scottaaronson.com/democritus/lec19.html) for much more detail).
+
+This suggests an interesting category for puzzle games: games where the player takes the role of Nature, and their only input is deciding when and what
+messages/objects arrive from the future, with the goal of creating a consistent timeline. As the sudoku example shows, this can be easily applied to
+already existing games (&lt;rant> maybe we will see [wikipedia's list of time travel games](https://en.wikipedia.org/wiki/List_of_games_containing_time_travel)
+feature sudoku apps, a nice variety from all the [Glorified Undo](/time-genres/glorified-undo) racing & action games </rant>). Games designed from the
+ground up for this model of time travel can do much more interesting stuff: for example, objects arriving from the future might alter when and how far
+back the next package is sent to the past. The player must be able to think about the whole timeline, so it's common for these games to not have an
+avatar and instead let the player freely scrub through time.
+
+Here are some games with this model of time travel:
+
+-----
+
+### [Time Conundrum](https://puzzles.mit.edu/2013/coinheist.com/get_smart/time_conundrum/) by MIT Mystery Hunt
+
+very cool etc.
+
+![Time Conundrum](){: .mx-auto.d-block :}
+
+-----
+
 
 ### Variants and future work
 
