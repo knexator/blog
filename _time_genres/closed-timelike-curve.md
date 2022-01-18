@@ -35,15 +35,17 @@ Here are some games with this model of time travel:
 
 ### [Time Conundrum](https://puzzles.mit.edu/2013/coinheist.com/get_smart/time_conundrum/) by MIT Mystery Hunt
 
-very cool etc.
-
-![Time Conundrum](){: .mx-auto.d-block :}
+Puzzle-hunt style conundrum about sending and receiving objects. Explores the theme to its full potential with mechanics such as 
+calculating the age of a time travelling object. It's a bit grindy for my taste, but it does have several twists and eureka moments.
+Highly recommended.
 
 -----
 
 
 ### Variants and future work
 
-same, but in comic strip format:
-
-![Comic strip](https://pbs.twimg.com/media/Ddqm4hpV4AEfoQZ?format=jpg&name=900x900)
+A great way to understand the Eternalist view is by reading a comic: the comic book itself is fixed and unchanging, all frames are equally
+real, and yet when reading it we are tricked into thinking there's a passage of time with a past, present, and future. If comics serve to
+illustrate Eternalism, why not use them to illustrate Eternalism with Time Travel?
+![Comic strip](https://pbs.twimg.com/media/Ddqm4hpV4AEfoQZ?format=jpg&name=900x900){: .mx-auto.d-block :}
+I'm not sure of how a game based on this idea would look, but I bet it could be fun.
