@@ -20,7 +20,8 @@ In fact, you're probably extremely familiar with this mode of time travel: any g
 feature, fits into this category. It's a pet peeve of mine when [a list of games containing time travel as a gameplay element](https://en.wikipedia.org/wiki/List_of_games_containing_time_travel#Time_travel_as_a_gameplay_element)
 arbitrarily includes [some games with undo](https://en.wikipedia.org/wiki/List_of_games_containing_time_travel#:~:text=Historia%20Crux%20system.-,Forza%20Motorsport%203,-2009)
 but not others, simply because the undo is called "rewind" instead of "undo". Which is why this particular entry wont list any games
-(since the other option is to list [almost] every puzzle game).
+(since the other option is to list [almost] every puzzle game). Games about being stuck in a time loop also belong in this category,
+since their underlying model of time is the same of any regular game with a reset button.
 
 With this very basic model out of the way, we can now examine more interesting ideas. For example, what if not all in-game objects
 are affected by the undo? We then get [Spicy Undo](/time-genres/spicy-undo).

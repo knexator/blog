@@ -1,5 +1,5 @@
 ---
-title: Fake causal loop
+title: Fake Causal Loop
 subtitle: Build a consistent timeline, step by step
 tags: [time travel, puzzles]
 ---
@@ -8,12 +8,23 @@ Some games in the [Past Clones](/time-genres/past-clones) genre impose an extra 
 This might seem like a small (and annoying) change, but it does imply a different underlying model of time: each travel isn't creating a parallel
 timeline (in which your past self has lost all free will for some unexplained reason); it's taking you to the same unique unchanging timeline,
 in which you simply never saw your future self. This is an ingenious way to make a game based on the [Closed Timelike Curve](/time-genres/closed-timelike-curve)
-model without the hassle of controlling several avatars at once. Unlike that model, however, the player can't take advantage of the Bootstrap Paradox:
+model without the hassle of controlling several avatars at once. Not being able to see or interact with your past self isn't a requirement: the
+Fake Causal Loop model is for any games where the end result is a single consistent timeline, but that don't allow the player to take advantage of the Bootstrap Paradox:
 if one locks their car keys inside the car, there is no way to receive from the future a copy of the keys, use them to open the car, and send
 the now accesible car keys back in time. This timeline, although stable (and a reasonable level for a [Closed Timelike Curve](/time-genres/closed-timelike-curve)
-game), cannot be 'started', so it can't happen on this model (which is why I call it "_Fake_ causal loop").
+game), cannot be 'started', so it can't happen on this model.
 
 Here are some games with this model of time travel:
+
+-----
+
+### [Induction](https://store.steampowered.com/app/381890/Induction/) by Bryan Gale
+
+I haven't personally played this game, so I can't talk much about it. It has a very interesting model of time, in which the final result must
+be a consistent timeline but you can use [Standard](/time-genres/standard) time travel to get to that state. Probably recommended, will update
+this as soon as I play it.
+
+![Induction](https://cdn.akamai.steamstatic.com/steam/apps/381890/ss_f3af590ec151224cf28a9bbdd90a4d95af7872f4.1920x1080.jpg?t=1624298007){: .mx-auto.d-block :}
 
 -----
 
@@ -24,7 +35,7 @@ It's a block pushing game, but... with time travel!. Being grid-based and having
 to keysmash randomly until stuff works: don't. Overall a good game, with some exceptions the levels themselves aren't too distinctive
 and the game is more about learning tricks and techniques that work on most. Highly recommended.
 
-![Block Pushing Puzzle Game But With Time Travel](https://img.itch.zone/aW1nLzMwMjgwMjgucG5n/315x250%23c/7f37hi.png)
+![Block Pushing Puzzle Game But With Time Travel](https://img.itch.zone/aW1nLzMwMjgwMjgucG5n/315x250%23c/7f37hi.png){: .mx-auto.d-block :}
 
 -----
 

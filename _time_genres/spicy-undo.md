@@ -20,7 +20,7 @@ Braid's World 3 features green glowing objects that are immune to the [Glorified
 I can't write anything about Braid that hasn't been writen before; if you're reading a blog about time travel puzzle games, you've played
 it already. Higly recommended.
 
-![Braid - World 3](https://cdn.akamai.steamstatic.com/steam/apps/26800/0000007898.1920x1080.jpg)
+![Braid - World 3](https://cdn.akamai.steamstatic.com/steam/apps/26800/0000007898.1920x1080.jpg){: .mx-auto.d-block :}
 
 -----
 
@@ -29,7 +29,7 @@ it already. Higly recommended.
 Great short sokoban about undo-resistant boxes. Memorable levels, beautiful graphics, and a neat ending make for a compelling game. The move
 counter works very well with the time travel mechanic, making it more intuitive and creating an interesting possibility space. Highly recommended.
 
-![At the Hedges of Time](https://img.itch.zone/aW1hZ2UvMTA1MDA0OC82MDA0NzYwLnBuZw==/original/dUVX8c.png)
+![At the Hedges of Time](https://img.itch.zone/aW1hZ2UvMTA1MDA0OC82MDA0NzYwLnBuZw==/original/dUVX8c.png){: .mx-auto.d-block :}
 
 -----
 
@@ -39,7 +39,7 @@ Very enjoyable puzzle game that takes standard sokoban and transforms it by maki
 well designed. The addition of a 'Redo' button gives the player a lot of power, once they learn to think about to not overwrite key moves.
 Highly recommended.
 
-![So broken](https://img.itch.zone/aW1hZ2UvOTU4MDcvNDUyNDY0LnBuZw==/original/M3HSAv.png)
+![So broken](https://img.itch.zone/aW1hZ2UvOTU4MDcvNDUyNDY0LnBuZw==/original/M3HSAv.png){: .mx-auto.d-block :}
 
 -----
 
