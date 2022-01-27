@@ -53,3 +53,5 @@ superhuman amounts of precise planning or waiting forever while on a button 'jus
 puzzle games: a solution should take more time to figure out than to execute. I think these flaws could mostly be solved by allowing the
 player to freely scrub through the timeline to correct minor mistakes or avoid long waits, but surprisingly I haven't yet seen a game that
 does this (apparently easy) fix. If you do, please contact me so I can feature it here.
+
+-----

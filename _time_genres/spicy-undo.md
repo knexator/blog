@@ -74,3 +74,5 @@ outside-the-game perspective moving that object around would make the temple loo
 Most of the standard Spicy Undo shenanigans, like a normal and an undo-resistant object overlapping, aren't really possible with this model.
 This territory for time travel puzzle games is, as far as I know, unexplored. I'd love to see someone explore this space; if you do,
 please contact me & I'll feature your game here!
+
+-----

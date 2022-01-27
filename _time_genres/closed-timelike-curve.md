@@ -41,7 +41,6 @@ Highly recommended.
 
 -----
 
-
 ## Variants and future work
 
 A great way to understand the Eternalist view is by reading a comic: the comic book itself is fixed and unchanging, all frames are equally
@@ -49,3 +48,5 @@ real, and yet when reading it we are tricked into thinking there's a passage of 
 illustrate Eternalism, why not use them to illustrate Eternalism with Time Travel?
 ![Comic strip](https://pbs.twimg.com/media/Ddqm4hpV4AEfoQZ?format=jpg&name=900x900){: .mx-auto.d-block :}
 I'm not sure of how a game based on this idea would look, but I bet it could be fun.
+
+-----

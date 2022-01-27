@@ -48,3 +48,5 @@ if it doesn't suceed, it should activate the undo machine. When the player execu
 successful attempt, or be stuck in a unsuccessful timeline that failed to activate the undo machine. There are some problems with this
 game; first, I'm not convinced it would be terribly interesting; second, executing the players' creation and finding the appropiate
 timeline is in general a NP-hard problem. Still, if anyone overcomes these hurdles, please contact me & I'll feature your game here!
+
+-----
