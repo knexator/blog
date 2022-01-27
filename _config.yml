@@ -229,6 +229,7 @@ defaults:
     values:
       layout: "page"
       comments: true 
+      after-content: [back-to-time-genres.html]
 
 # Exclude these files from production site
 exclude:
