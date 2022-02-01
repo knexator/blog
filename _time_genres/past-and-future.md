@@ -57,8 +57,20 @@ Anyways, that's enought of that. Here are some games with this model of time:
 
 ### [Portal Reloaded](https://store.steampowered.com/app/1255980/Portal_Reloaded/) by PORTANIS
 
-TODO: this text. Highly recommended.
+Free mod for Portal 2 that adds a Time Portal, that allow the player to travel between past and future versions of the same chamber. Changing stuff
+in the past will affect the future, and you may take cubes back into the past. Puzzles are pretty good, even though there are some unintended solutions
+and small timing elements. The time travel doesn't really make sense (why can't a past cube go into the future?), the levels gets easier if you think
+about them as 2 slightly different rooms with some extra constraints connecting them instead of thinking about it as time travel. Really challenging
+but mostly fair. Highly recommended.
 
 ![Portal Reloaded](https://cdn.akamai.steamstatic.com/steam/apps/1255980/ss_8613d0ae0307572e35295d15b091cf5d911a31cd.jpg){: .mx-auto.d-block :}
+
+-----
+
+### [Day of the Tentacle](https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/) by LucasArts
+
+todo: this text.
+
+![Day of the Tentacle](https://cdn.akamai.steamstatic.com/steam/apps/388210/ss_a9f405ea5c4404e1063dec5b21a9bc9eb45d0353.jpg){: .mx-auto.d-block :}
 
 -----
