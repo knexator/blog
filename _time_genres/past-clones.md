@@ -42,6 +42,7 @@ Some other games featuring this model that I haven't played, or that I don't fee
  - [Chronotron](https://www.kongregate.com/games/Scarybug/chronotron)
  - [Cursor*10](https://www.youtube.com/watch?v=ZaMG3DdnAdI)
  - Parts of [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/)
+ - [Holosaur](https://daem-on.itch.io/holosaur)
  - etc.
 
 -----
