@@ -23,6 +23,7 @@ past-clones
 fake-causal-loop
 past-and-future
 tenet
+multiverse-time-travel
 linear-time
 slow-down-time
 {% endcapture %}
