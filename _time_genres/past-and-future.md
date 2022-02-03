@@ -69,7 +69,7 @@ but mostly fair. Highly recommended.
 
 ### [Day of the Tentacle](https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/) by LucasArts
 
-todo: this text.
+Classic graphic adventure game about controlling 3 characters stuck in 3 different time periods. I haven't played it.
 
 ![Day of the Tentacle](https://cdn.akamai.steamstatic.com/steam/apps/388210/ss_a9f405ea5c4404e1063dec5b21a9bc9eb45d0353.jpg){: .mx-auto.d-block :}
 

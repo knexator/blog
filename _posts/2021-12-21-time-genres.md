@@ -21,8 +21,10 @@ closed-timelike-curve
 standard
 past-clones
 fake-causal-loop
+past-and-future
 tenet
 linear-time
+slow-down-time
 {% endcapture %}
 {% assign time_genre_names = time_genre_names | strip | newline_to_br | strip_newlines | split: "<br />" %}
 
