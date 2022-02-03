@@ -44,16 +44,16 @@ of the causal chains between 2 points in time:
 
 ![2d-time](../../assets/img/time-2d-diagram-events-1.png){: .mx-auto.d-block :}
 
-We start with an egg and a new moon, and some time later (both horizontal and vertical) get a chick and a full moon. The wobbly
+We start with an egg and a new moon, and some time (both horizontal and vertical) later get a chick and a full moon. The wobbly
 lines connecting both points in time are causal chains: they always advance up and to the right, so they go strictly forward
-in time. If we extracted the events happening along any of these lines, we would get a tradition 1d timeline, without any jumps
+in time. If we extracted the events happening along any of these lines, we would get a traditional 1d timeline, without any jumps
 back in time. For this reason, we will call them timeline-like lines. Each of these lines starts with an egg and a new moon,
 and ends with a chick and a full moon. So, for every one of them, there's some point in which the events "egg hatching" and
-"quarter moon" take place. Let's draw these point-events:
+"quarter moon" take place. Let's draw these point-events, for each timelike-line:
 
 ![2d-time](../../assets/img/time-2d-diagram-events-2.png){: .mx-auto.d-block :}
 
-It's now clear that events don't happen at a single point in time, but rather at all points along a line. Like timeline-like lines,
+It's now clear that events like "egg hatching" don't happen at a single point in time, but rather at all points along a line. Like timeline-like lines,
 these lines have some constraints: no point of the line is the past or future of any other point (so, they can never advance in
 the up-right direction, only down-right). If not, there would be a timeline-like line which contained both points, meaning that
 that timeline would see the "egg hatching" event twice. We will call lines with this property event-like.
