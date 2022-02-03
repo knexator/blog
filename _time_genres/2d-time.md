@@ -8,7 +8,7 @@ tags: [time travel, puzzles]
 temporal dimensions? By this, I don't mean having 2 time-like dimensions in General Relativity (which is explored in Greg Egan's
 [Dichronauts](https://www.gregegan.net/DICHRONAUTS/01/World.html)). Rather, I mean that objects have "worldplanes" instead of worldlines, or in other
 words, that we must ask "Where is the object at time (t1, t2)?". This extra time coordinate has a lot of unexpected effects; let's explore them!
-TLDR: the end result will be pretty disapointing, but the road to get there has some interesting twists.
+TLDR: the end result will be pretty disappointing, but the road to get there has some interesting twists.
 
 Let's start by making some diagrams. One dimensional time might look something like this:
 
@@ -39,17 +39,36 @@ depends on the coin's result, then the coin must give the same result B1 and B2.
 the other. This is a good moment to feel cheated: our fancy 2-dimensional timeplane A-(B1-B2)-C seems to have collapsed into a boring 1-dimensional
 timeline A-B-C.
 
-It turns out that seeing events as points is a flawed idea. Consider this final diagram:
+This collapse isn't a bug, it's a feature. We feel cheated due to a wrong assumption: seeing events as points. Let's draw some
+of the causal chains between 2 points in time:
 
-![2d-time](../../assets/img/time-2d-diagram-4.png){: .mx-auto.d-block :}
+![2d-time](../../assets/img/time-2d-diagram-events-1.png){: .mx-auto.d-block :}
 
-We start with a ball at rest, and kick it when our bi-watch shows 2,2 o'clock. Let's consider the state of the ball as a function of time(s), F(t1, t2).
-The bare minimum we can ask of this function is continuity, that is, that the ball doesn't teleport around. Here are some values of that function: at (1,1),
-the ball is at rest; an horizontal second later, at (1, 2), it's still at rest; a vertical second after that, at (2,2), we kick the ball, so we can expect
-that a vertical second later, at (3,2), the ball is moving, and will keep on moving an horizontal second later, at (3,3). This is fun! Let's consider
-more values: we start again at (1,1), with the ball at rest; 2 vertical seconds later, we get to (3,1), with the ball still at rest. And an horizontal
-second later we get to (3,2), where the ball is... moving? Something went wrong: 
+We start with an egg and a new moon, and some time later (both horizontal and vertical) get a chick and a full moon. The wobbly
+lines connecting both points in time are causal chains: they always advance up and to the right, so they go strictly forward
+in time. If we extracted the events happening along any of these lines, we would get a tradition 1d timeline, without any jumps
+back in time. For this reason, we will call them timeline-like lines. Each of these lines starts with an egg and a new moon,
+and ends with a chick and a full moon. So, for every one of them, there's some point in which the events "egg hatching" and
+"quarter moon" take place. Let's draw these point-events:
 
+![2d-time](../../assets/img/time-2d-diagram-events-2.png){: .mx-auto.d-block :}
 
+It's now clear that events don't happen at a single point in time, but rather at all points along a line. Like timeline-like lines,
+these lines have some constraints: no point of the line is the past or future of any other point (so, they can never advance in
+the up-right direction, only down-right). If not, there would be a timeline-like line which contained both points, meaning that
+that timeline would see the "egg hatching" event twice. We will call lines with this property event-like.
+
+In 1 dimensional time, with point-like events, the order is always clear. However, in the diagram, there seems to be an
+interesting property of these event-lines: they can cross, meaning that the events aren't objectively ordered. Is this
+some exciting property of 2 dimensional time? No: the event lines can cross only if their order makes no measurable difference.
+There can't be a third object whose final state depends on the ordering of "egg hatching" and "quarter moon": if there was,
+it would have a single state at the end, meaning that all timelike-line lines reaching that point saw the same order of events.
+
+My main motivation for thinking about 2 dimensional time was that the number of events that it could fit would grow
+quadratically instead of linearly. We now see that that isn't the case: we added an extra dimension of time and in 
+return got an extra dimension of events, leaving us back with a linear number of events. In this sense, a story in two-dimensional
+time loses nothing if you pick any timeline-like line inside and follow it, forgetting about everything that happens outside it.
+Oh well, the road here was kind of fun. Despite everything, if anyone finds or creates some game (or book, or anything) that uses
+2 dimensions of time in an interesting and consistent way, I'd love to hear about it!
 
 -----
