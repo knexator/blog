@@ -6,9 +6,9 @@ tags: [time travel, puzzles]
 
 Time travel games often feature a convenient mechanic: slow down the world and/or yourself, to allow performing moves that would otherwise
 require superhuman skill. This can be extended to allow literally impossible moves, such as climbing a time-frozen waterfall. I'm not
-convinced that this mechanic deserves it's own page: it doesn't affect causality, so it could go in [Linear Time](/time-genres/linear-time),
+convinced that this mechanic deserves its own page: it doesn't affect causality, so it could go in [Linear Time](/time-genres/linear-time),
 and the underlying model of time is the same as in [Spicy Undo](/time-genres/spicy-undo) (moving on a frozen world is equivalent to
-continously switching between undoing and not undoing, while being immune to undo). Still, the mechanic is used often enough to get it's
+continuously switching between undoing and not undoing, while being immune to undo). Still, the mechanic is used frequently enough to get it's
 own category. Here are some games using it:
 
 -----
@@ -27,5 +27,7 @@ is of course extremely recommended.
 
 Metroidvania in which the player has the ability to briefly pause time, which not only helps with combat but will allow them to use
 enemies as platforms. I haven't played it.
+
+![Timespinner](https://cdn.cloudflare.steamstatic.com/steam/apps/368620/ss_7d1fb2391de4098964de05c737076d86c14e2ce6.jpg){: .mx-auto.d-block :}
 
 -----

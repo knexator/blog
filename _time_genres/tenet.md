@@ -12,7 +12,7 @@ time machines, where it only takes 1 subjective hour to travel back 6. Still, th
 tiny box, much like an astronaut. Which gets us to the main point of this post: what if the time traveler wasn't confined to their machine but
 could explore and interact with the world while travelling backwards in time? This is the core idea of [Tenet](https://en.wikipedia.org/wiki/Tenet_(film)),
 a film in which time machines act only as "turnstiles" which swap which time direction the traveler advancing it (from the usual 1 second per 
-second, to a shocking -1 second per second). This intriguing flavour of time-reversed travelers can be applied to most models. Here are some
+second, to a shocking -1 second per second). This intriguing flavor of time-reversed travelers can be applied to most models. Here are some
 games that do that:
 
 -----
@@ -20,7 +20,7 @@ games that do that:
 ### [Chiasm](https://store.steampowered.com/app/1556550/Chiasm/) by Tim Fowers
 
 Short puzzle game about reversing the time flow of yourself and other objects. The game uses the [Past Clones](/time-genres/past-clones) model,
-but the Tenet flavour removes most of the usual fiddliness. It also has some [Spicy Undo](/time-genres/spicy-undo), with boxes immune to time-reversal.
+but the Tenet flavor removes most of the usual fiddliness. It also has some [Spicy Undo](/time-genres/spicy-undo), with boxes immune to time-reversal.
 The logic is simple, consistent, and interesting, and the levels are perfectly crafted to showcase all the interesting consequences of the time travel
 model. Highly recommended.
 

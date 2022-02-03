@@ -12,7 +12,7 @@ that make the player think about cause and effect, fate and free will, consisten
 
 ### [400 Years](https://www.newgrounds.com/portal/view/610738) by scriptwelder
 
-Short narrative game about waiting. The player's superpower is an incredibly patience, which allows them to wait for seasons to pass or trees to grow.
+Short narrative game about waiting. The player's superpower is an incredible patience, which allows them to wait for seasons to pass or trees to grow.
 Well written, recommended.
 
 ![400 Years](https://static.wikia.nocookie.net/scriptwelder/images/f/f3/400_years.png){: .mx-auto.d-block :}

@@ -17,8 +17,8 @@ Here are some games with this model of time travel:
 ### [Braid - World 3](https://store.steampowered.com/app/26800/Braid/) by Jon Blow
 
 Braid's World 3 features green glowing objects that are immune to the [Glorified Undo](/time-genres/glorified-undo) introduced in World 2.
-I can't write anything about Braid that hasn't been writen before; if you're reading a blog about time travel puzzle games, you've played
-it already. Higly recommended.
+I can't write anything about Braid that hasn't been written before; if you're reading a blog about time travel puzzle games, you've played
+it already. Highly recommended.
 
 ![Braid - World 3](https://cdn.akamai.steamstatic.com/steam/apps/26800/0000007898.1920x1080.jpg){: .mx-auto.d-block :}
 
@@ -36,7 +36,7 @@ counter works very well with the time travel mechanic, making it more intuitive 
 ### [So broken](https://coreymartin.itch.io/sobroken) by Corey Martin
 
 Very enjoyable puzzle game that takes standard sokoban and transforms it by making the player immune to undo. Levels are manageable and 
-well designed. The addition of a 'Redo' button gives the player a lot of power, once they learn to think about to not overwrite key moves.
+well-designed. The addition of a 'Redo' button gives the player a lot of power, once they learn to think about to not overwrite key moves.
 Highly recommended.
 
 ![So broken](https://img.itch.zone/aW1hZ2UvOTU4MDcvNDUyNDY0LnBuZw==/original/M3HSAv.png){: .mx-auto.d-block :}
@@ -50,24 +50,24 @@ Highly recommended.
 The model as explained at the top of the page is good enough to play, create, and understand these games, but it's not as solid as it might seem.
 Let's think about the perspective of an in-world inhabitant, whose memories aren't undo-immune. They see an undo-resistant object at some position.
 An instant later, that object teleports somewhere else: unbeknownst to them, the player moved that object around and then undoed back to that instant.
-In other words, the world line of undo-resistant objects is discontinous:
+In other words, the world line of undo-resistant objects is discontinuous:
 ![Paradox](/assets/img/spicy-undo-paradox.gif){: .mx-auto.d-block :}
-The player never sees the object jump around since by the time they get back to the discontinuity, the object's history will have been rewriten.
+The player never sees the object jump around, since by the time they get back to the discontinuity, the object's history will have been rewritten.
 The most consistent solution is to add [a hierarchy of extra time dimensions](/time-genres/serialism) (after, the gif above has 2 time dimensions!)
 
 However, there's another path: let's try removing the time dimension from these objects. That is, we will see these objects as immutable: they have
 had and always will have the same position:
 ![Immutable](/assets/img/spicy-undo-immutable.gif){: .mx-auto.d-block :}
-"Wait", you might say, "that object is clearly moving!". Well, from our priviledged outside-the-game perspective it is, but not in the in-game
+"Wait", you might say, "that object is clearly moving!". Well, from our privileged outside-the-game perspective it is, but not in the in-game
 universe: take a screenshot of that gif and you'll have a stationary object's full timeline. With this view, moving the object means creating
 a whole new timeline: not only is the object over there now, it has always been over there for the in-game world inhabitants. The undo machine
 isn't actually a machine for undoing history: it's a machine for travelling to alternate timelines in which the immutable objects 
 are (and have been, and will be) in a different state.
 
-This model has some very interesting consequences. These time-immune objects would have puzzling and mysterious properties, like floating in mid-air
+This model has some very interesting consequences. These time-immune objects would have puzzling and mysterious properties, like floating in midair
 when their support is removed. Let's say that some religion decides to worship one of these objects, building a temple around it (the object can't be
-brought to an altar, so the altar must be built around the object!). In each timeline the object has a different position, so from our priviledged
-outside-the-game perspective moving that object around would make the temple look like this:
+brought to an altar, so the altar must be built around the object!). In each timeline the object has a different position, so from our privileged
+outside-the-game perspective, moving that object around would make the temple look like this:
 
 ![Green Relic](https://www.unite.ai/wp-content/uploads/2021/12/latent-space-explore-live-gan-manipulation.gif){: .mx-auto.d-block :}
 
