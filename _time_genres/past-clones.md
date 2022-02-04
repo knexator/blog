@@ -18,7 +18,7 @@ Here are some games with this model of time travel:
 ### [The Company of Myself](http://2darray.net/portfolio/the-company-of-myself/) by 2DArray
 
 Story-heavy puzzle platformer from 2009. I remember it as perfect, with clever puzzles and a beautifully tragic story; 
-nostalgia might be biasing me, so I won't play it again to avoid it not living up to my expectations. Still, highly recommended (if not,
+nostalgia might be biasing me, so I won't play it again to avoid it not living up to my expectations. Highly recommended (if not,
 please don't tell me).
 
 ![The Company of Myself](http://2darray.net/wp-content/uploads/2015/07/TheCompanyOfMyself_Screen7.jpg){: .mx-auto.d-block :}
@@ -36,7 +36,7 @@ with both worlds at once; this extra level of granularity adds some interesting 
 
 -----
 
-Some other games featuring this model that I haven't played, or that I don't feel like writing about:
+Some other games featuring this model (I don't feel like writing about every single Past Clones game):
  - [The Misadventures of P.B. Winterbottom](https://store.steampowered.com/app/40930/The_Misadventures_of_PB_Winterbottom)
  - [Time Master](https://store.steampowered.com/app/1486080/Time_Master/)
  - [Chronotron](https://www.kongregate.com/games/Scarybug/chronotron)

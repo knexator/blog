@@ -7,7 +7,7 @@ tags: [time travel, puzzles]
 Let's assume the [growing block view](https://en.wikipedia.org/wiki/Growing_block_universe); in other words, the universe is an ever
 growing stack of instants, with the topmost one being the present. Let's also assume that we have a time machine that, when activated,
 will take itself and its contents to an earlier layer on the stack, removing all the layers above it. Now the universe is back to an
-earlier state, with the addition of a time traveler from the future. In other words, each travel creates a new timeline. In-universe
+earlier state, with the addition of a time traveler from the future. In other words, each travel creates a new timeline, and in-universe
 characters are allowed to alter history without the threat of paradox. 
 
 I might be biased by calling this the "Standard" model, but it

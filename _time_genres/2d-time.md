@@ -26,8 +26,8 @@ Simple enough. Let's add an extra time dimension to the mix:
 ![2d-time](../../assets/img/time-2d-diagram-2.png){: .mx-auto.d-block :}
 
 Causality now advances in two directions: left to right, and down to up. The first notable effect is that time no longer divides cleanly in
-Past and Future: there's also the Weird Present. Let's consider the event B: it can't cause A, since A happens before it (with respect to horizontal time), and it can't be caused
-by A since it happens after it (with respect to vertical time). We will say that B is in the Weird Present of A, meaning that  
+Past and Future: there's also the Weird Present. Let's consider the event B: B can't cause A, since A happens before B (with respect to horizontal time), and B can't be caused
+by A since B happens after A (with respect to vertical time). We will say that B is in the Weird Present of A, meaning that 
 there is no causal chain between A and B. Does this mean that these
 two events are completely independent? No: observing one will tell us information about the other. To see this, consider the following example:
 
@@ -35,7 +35,7 @@ two events are completely independent? No: observing one will tell us informatio
 
 We start at A, wait a second in either direction, and flip a coin. At first sight, B1 and B2 seem like independent events (since no causal chain
 connects them), so we could get heads in one and tails in the other. But then, what state will the coin have at C? If some irreversible action
-depends on the coin's result, then the coin must give the same result B1 and B2. Thus, the states are correlated: knowing one tells us all about
+depends on the coin's result, then the coin must give the same result at B1 and B2. Thus, the states are correlated: knowing one tells us all about
 the other. This is a good moment to feel cheated: our fancy 2-dimensional timeplane A-(B1-B2)-C seems to have collapsed into a boring 1-dimensional
 timeline A-B-C.
 
@@ -45,9 +45,9 @@ of the causal chains between 2 points in time:
 ![2d-time](../../assets/img/time-2d-diagram-events-1.png){: .mx-auto.d-block :}
 
 We start with an egg and a new moon, and some time (both horizontal and vertical) later get a chick and a full moon. The wobbly
-lines connecting both points in time are causal chains: they always advance up and to the right, so they go strictly forward
-in time. If we extracted the events happening along any of these lines, we would get a traditional 1d timeline, without any jumps
-back in time. For this reason, we will call them timeline-like lines. Each of these lines starts with an egg and a new moon,
+lines connecting both points in time are causal chains: they always advance up and to the right, meaning that all the points they
+visit form a well ordered causal chain.
+For this reason, we will call them timeline-like lines. Each of these lines starts with an egg and a new moon,
 and ends with a chick and a full moon. So, for every one of them, there's some point in which the events "egg hatching" and
 "quarter moon" take place. Let's draw these point-events, for each timelike-line:
 

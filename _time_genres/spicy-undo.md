@@ -5,7 +5,7 @@ tags: [time travel, puzzles]
 ---
 
 At first sight, this model of time seems very close to the [Glorified Undo](/time-genres/glorified-undo) model: the universe is built
-moment by moment, and an undo machine will remove the top layers of this stack. In this model, there might be objects that resist this undoing,
+moment by moment, and an undo machine will remove the top layers of this stack. Unlike that model, there now are objects that resist this undoing,
 keeping their history intact. This apparently small change means that the undoed, discarded history can have effects on the actual history;
 this opens up a lot of space for interesting consequences, while still being a pretty natural & understandable model for time travel (we 
 will see in the extra section that it holds some extra surprises when trying to formalize it!)
@@ -36,7 +36,7 @@ counter works very well with the time travel mechanic, making it more intuitive 
 ### [So broken](https://coreymartin.itch.io/sobroken) by Corey Martin
 
 Very enjoyable puzzle game that takes standard sokoban and transforms it by making the player immune to undo. Levels are manageable and 
-well-designed. The addition of a 'Redo' button gives the player a lot of power, once they learn to think about to not overwrite key moves.
+well-designed. The addition of a 'Redo' button gives the player a lot of power, once they learn to not overwrite key moves.
 Highly recommended.
 
 ![So broken](https://img.itch.zone/aW1hZ2UvOTU4MDcvNDUyNDY0LnBuZw==/original/M3HSAv.png){: .mx-auto.d-block :}
@@ -59,7 +59,7 @@ However, there's another path: let's try removing the time dimension from these 
 had and always will have the same position:
 ![Immutable](/assets/img/spicy-undo-immutable.gif){: .mx-auto.d-block :}
 "Wait", you might say, "that object is clearly moving!". Well, from our privileged outside-the-game perspective it is, but not in the in-game
-universe: take a screenshot of that gif and you'll have a stationary object's full timeline. With this view, moving the object means creating
+universe: take a screenshot of that gif and you'll have a stationary object's full timeline. In other words, moving the object means creating
 a whole new timeline: not only is the object over there now, it has always been over there for the in-game world inhabitants. The undo machine
 isn't actually a machine for undoing history: it's a machine for travelling to alternate timelines in which the immutable objects 
 are (and have been, and will be) in a different state.

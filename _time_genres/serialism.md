@@ -9,7 +9,7 @@ The timeline might start as a straight line, then develop a fold when someone tr
 then a second fold when someone else travels to try and prevent the first travel, which might lead
 to the first fold disappearing, etc. So, which one is the _real_ timeline? Does only the last one count?
 That can't be it, since the shape of the last timeline is influenced by the previous timelines. Wait,
-what does _previous_ mean when we are talking about timelines? Models based on [eternalism](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)),
+what does _previous_ mean when we are talking about timelines? Or changes in the past _instantly_ affecting the future? Models based on [eternalism](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)),
 like the [Closed Timelike Curve](/time-genres/closed-timelike-curve) model, don't have this problem: there's
 a single, immutable timeline, and all folds are already there from the start. The price to pay for
 this solution is the past or future can't be changed, even when interacting with them. And, of course,
@@ -35,7 +35,7 @@ Now, let's say that after finishing the book, we jump back to a random page and 
 of the story. No amount of in-book time traveling can prevent our actions: we are messing with the _real_ timeline, the page number.
 If we track these modifications, creating a collection of all the different versions of the book (each one created by taking the previous
 and rewriting everything after some point), we end up with a meta-story about how the _real_ timeline of the page numbers is distorted.
-In other words, we are back to the starting problem, but we can apply the same solution: different events might happen in both versions of page 4,
+In other words, we are back to the starting problem (the _real_ timeline chaging with respect to time), but we can apply the same solution: different events might happen in both versions of page 4,
 but one happens in Book 1.0 and the other in Book 2.0; it turns out the _real_ timeline of page numbers, while being more real than the story's
 timeline, is less real than the version number timeline. These shenanigans have no end: every time we mess around with the most 'real' timeline,
 there's an unaffected, linear, timeline in which we can track the order in which we have messed around.

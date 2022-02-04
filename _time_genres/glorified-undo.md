@@ -28,25 +28,24 @@ are affected by the undo? We then get [Spicy Undo](/time-genres/spicy-undo).
 
 ## Variants & future work
 
-### External player isn't immune to in-game undo
-In a fully deterministic universe, if truly nothing was immune to undoing, a time machine that was capable of undo would be
+In a fully deterministic universe, a time machine that was capable of undo would be
 disastrous: once activated, it would erase some amount of history, leaving the universe in the exact same state that originally led
 to the machine being activated. In other words, a time traveler whose memories don't survive the travel will always commit the same
-mistake that makes them use the time machine, leaving the whole universe stuck in a loop. Games don't get stuck in this state since
-the player is immune to the in-game undo, meaning that they can make different choices. If we want the player to also be susceptible
-to the in-game undo, we will need another solution to the unescapable loop problem. What about a non-deterministic universe?
+mistake that makes them use the time machine, leaving the whole universe stuck in a loop. Games don't have this problem since
+the player is immune to the in-game undo, meaning that they can make different choices. Could we make a game in which even the
+external player was affected by the in-game undo? First, we would need another solution to the unescapable loop problem. What about a non-deterministic universe?
 In that case, the machine could be used as follows: take an action at random; if the outcome isn't the desired one, activate the
 machine and return the universe to the moment before taking the action. If there's some chance of success, however small, that will be
 the resulting timeline. Inhabitants of this universe would have a very unique experience: from their point of view, the machine has
 never been activated, but they've been much luckier since it was created.
 
-I haven't yet found a game that uses this real-player-also-affected-by-undo variant. Assuming it's impossible to mess with the actual
-player's memories (or timeline!), the player should only be able to see the final timeline, meaning that they will have to interact
+I haven't yet found a game that uses this real-player-also-affected-by-undo variant. Assuming it's impossible for a video game to mess with the actual
+player's memories (or timeline!), the effect will have to be achieved by only letting the player see the final timeline, meaning that they will have to interact
 with the mistaken-timelines without ever seeing them. How would such a game look? I think it could work well as a zachtronics game:
-the player would be tasked with designing a contraption/program/strategy with the condition that it has some chance of success & that
-if it doesn't succeed, it should activate the undo machine. When the player executes their creation, they will either only see the
-successful attempt, or be stuck in an unsuccessful timeline that failed to activate the undo machine. There are some problems with this
-game; first, I'm not convinced it would be terribly interesting; second, executing the players' creation and finding the appropriate
-timeline is in general a NP-hard problem. Still, if anyone overcomes these hurdles, please contact me & I'll feature your game here!
+the player must design a contraption/program/etc with access to an undo machine and some source of randomness.
+When the player executes their creation, they will either only see a
+successful attempt in which all the randomness conspires to solve the problem, or be stuck in an unsuccessful timeline that failed to activate the undo machine.
+I'm not sure that such a game would be interesting; besides, executing the players' creation and finding the appropriate timeline is in general a NP-hard problem.
+Still, if you see (or create) a game like this, please contact me & I'll feature it here!
 
 -----

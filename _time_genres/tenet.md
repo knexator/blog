@@ -5,7 +5,7 @@ tags: [time travel, puzzles]
 ---
 
 Time machines in fiction usually act instantly: the time traveler always takes the same time to reach their destination, regardless of how far away
-(in time) that is. Given that teleporting things around space is kind of a hard problem, it's strange that scientists in fiction jump straight to
+(in time) it is. Given that teleporting things around space is kind of a hard problem, it's strange that scientists in fiction jump straight to
 being able to teleport things around time. [Primer](https://en.wikipedia.org/wiki/Primer_(film)) takes a more grounded approach: to travel 6 hours back in
 time, you must sit inside the machine for 6 hours. Maybe in the Primer universe there could be another breakthrough that allows for making faster
 time machines, where it only takes 1 subjective hour to travel back 6. Still, this voyage isn't too interesting: the traveler must sit inside a
