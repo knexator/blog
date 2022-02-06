@@ -9,7 +9,7 @@ The timeline might start as a straight line, then develop a fold when someone tr
 then a second fold when someone else travels to try and prevent the first travel, which might lead
 to the first fold disappearing, etc. So, which one is the _real_ timeline? Does only the last one count?
 That can't be it, since the shape of the last timeline is influenced by the previous timelines. Wait,
-what does _previous_ mean when we are talking about timelines? Or changes in the past _instantly_ affecting the future? Models based on [eternalism](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)),
+what does _previous_ mean when we are talking about timelines? Models based on [eternalism](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)),
 like the [Closed Timelike Curve](/time-genres/closed-timelike-curve) model, don't have this problem: there's
 a single, immutable timeline, and all folds are already there from the start. The price to pay for
 this solution is the past or future can't be changed, even when interacting with them. And, of course,

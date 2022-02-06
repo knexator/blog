@@ -6,7 +6,7 @@ tags: [time travel, puzzles]
 
 At first sight, this model of time seems very close to the [Glorified Undo](/time-genres/glorified-undo) model: the universe is built
 moment by moment, and an undo machine will remove the top layers of this stack. Unlike that model, there now are objects that resist this undoing,
-keeping their history intact. This apparently small change means that the undoed, discarded history can have effects on the actual history;
+keeping their history intact. This apparently small change means that the undone, discarded history can have effects on the actual history;
 this opens up a lot of space for interesting consequences, while still being a pretty natural & understandable model for time travel (we 
 will see in the extra section that it holds some extra surprises when trying to formalize it!)
 
@@ -50,11 +50,11 @@ Highly recommended.
 
 The model as explained at the top of the page is good enough to play, create, and understand these games, but it's not as solid as it might seem.
 Let's think about the perspective of an in-world inhabitant, whose memories aren't undo-immune. They see an undo-resistant object at some position.
-An instant later, that object teleports somewhere else: unbeknownst to them, the player moved that object around and then undoed back to that instant.
+An instant later, that object teleports somewhere else: unbeknownst to them, the player moved that object around and then 'undid' back to that instant.
 In other words, the world line of undo-resistant objects is discontinuous:
 ![Paradox](/assets/img/spicy-undo-paradox.gif){: .mx-auto.d-block :}
 The player never sees the object jump around, since by the time they get back to the discontinuity, the object's history will have been rewritten.
-The most consistent solution is to add [a hierarchy of extra time dimensions](/time-genres/serialism) (after, the gif above has 2 time dimensions!)
+The most consistent solution is to add [a hierarchy of extra time dimensions](/time-genres/serialism) (after all, the gif above has 2 time dimensions!)
 
 However, there's another path: let's try removing the time dimension from these objects. That is, we will see these objects as immutable: they have
 had and always will have the same position:

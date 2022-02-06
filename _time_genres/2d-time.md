@@ -46,7 +46,7 @@ of the causal chains between 2 points in time:
 
 We start with an egg and a new moon, and some time (both horizontal and vertical) later get a chick and a full moon. The wobbly
 lines connecting both points in time are causal chains: they always advance up and to the right, meaning that all the points they
-visit form a well ordered causal chain.
+visit form a well-ordered causal chain.
 For this reason, we will call them timeline-like lines. Each of these lines starts with an egg and a new moon,
 and ends with a chick and a full moon. So, for every one of them, there's some point in which the events "egg hatching" and
 "quarter moon" take place. Let's draw these point-events, for each timelike-line:
