@@ -11,6 +11,7 @@ this opens up a lot of space for interesting consequences, while still being a p
 will see in the extra section that it holds some extra surprises when trying to formalize it!)
 
 Here are some games with this model of time travel:
+<a name="braid-world-3"></a>
 
 -----
 
@@ -21,6 +22,7 @@ I can't write anything about Braid that hasn't been written before; if you're re
 it already. Highly recommended.
 
 ![Braid - World 3](https://cdn.akamai.steamstatic.com/steam/apps/26800/0000007898.1920x1080.jpg){: .mx-auto.d-block :}
+<a name="at-the-hedges-of-time"></a>
 
 -----
 
@@ -30,6 +32,7 @@ Great short sokoban about undo-resistant boxes. Memorable levels, beautiful grap
 counter works very well with the time travel mechanic, making it more intuitive and creating an interesting possibility space. Highly recommended.
 
 ![At the Hedges of Time](https://img.itch.zone/aW1hZ2UvMTA1MDA0OC82MDA0NzYwLnBuZw==/original/dUVX8c.png){: .mx-auto.d-block :}
+<a name="so-broken"></a>
 
 -----
 
@@ -37,13 +40,11 @@ counter works very well with the time travel mechanic, making it more intuitive 
 
 Very enjoyable puzzle game that takes standard sokoban and transforms it by making the player immune to undo. Levels are manageable and 
 well-designed. The addition of a 'Redo' button gives the player a lot of power, once they learn to not overwrite key moves.
-Highly recommended.
 
+Highly recommended.
 ![So broken](https://img.itch.zone/aW1hZ2UvOTU4MDcvNDUyNDY0LnBuZw==/original/M3HSAv.png){: .mx-auto.d-block :}
 
 -----
-
-<!-- pending: sig.null -->
 
 ## Variants & future work
 

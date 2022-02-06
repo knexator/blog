@@ -15,20 +15,24 @@ the now accessible car keys back in time. This timeline, although stable (and a 
 game), cannot be 'started', so it can't happen on this model.
 
 Here are some games with this model of time travel:
+<a name="induction"></a>
 
 -----
 
 ### [Induction](https://store.steampowered.com/app/381890/Induction/) by Bryan Gale
+
 
 I haven't personally played this game, so I can't talk much about it. It has a very interesting model of time, in which the final result must
 be a consistent timeline but you can use [Standard](/time-genres/standard) time travel to get to that state. Probably recommended, will update
 this as soon as I play it.
 
 ![Induction](https://cdn.akamai.steamstatic.com/steam/apps/381890/ss_f3af590ec151224cf28a9bbdd90a4d95af7872f4.1920x1080.jpg?t=1624298007){: .mx-auto.d-block :}
+<a name="block-pushing-puzzle-game-but-you-can-time-travel"></a>
 
 -----
 
 ### [Block Pushing Puzzle Game But With Time Travel](https://versificator.itch.io/block-pushing-puzzle-game-but-you-can-time-travel) by Robin Johnson
+
 
 It's a block pushing game, but... with time travel!. Being grid-based and having undo makes it much less fiddly than the average 
 [Past Clones](/time-genres/past-clones) game. It will take some active thought to understand what is going on, so you might be tempted

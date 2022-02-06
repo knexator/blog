@@ -10,6 +10,7 @@ convinced that this mechanic deserves its own page: it doesn't affect causality,
 and the underlying model of time is the same as in [Spicy Undo](/time-genres/spicy-undo) (moving on a frozen world is equivalent to
 continuously switching between undoing and not undoing, while being immune to undo). Still, the mechanic is used frequently enough to get it's
 own category. Here are some games using it:
+<a name="braid-world-6"></a>
 
 -----
 
@@ -20,6 +21,7 @@ causality, having different parts of the world advance at different speeds creat
 is of course extremely recommended.
 
 ![Braid - World 6](https://cdn.akamai.steamstatic.com/steam/apps/26800/0000007887.1920x1080.jpg){: .mx-auto.d-block :}
+<a name="timespinner"></a>
 
 -----
 

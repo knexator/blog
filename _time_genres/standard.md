@@ -17,6 +17,7 @@ not carry any objects back, and [Past Clones](/time-genres/past-clones) by remov
 
 Games with a "New Game+" that allow you to restart the game with your final inventory fit into this category, but aren't listed since
 that mechanic isn't their focus. Excluding those, here are some games with this model of time travel:
+<a name="vision-soft-reset"></a>
 
 -----
 
@@ -28,6 +29,7 @@ a very limited time to prevent a disaster; the key is to obtain powerups and sen
 and reach new areas. The game features a wonderful timeline tree that allows you to travel between checkpoints. Extremely recommended.
 
 ![Vision Soft Reset](https://img.itch.zone/aW1hZ2UvMTIxMDEzLzE3NDQ0NzAucG5n/original/68W%2FUU.png){: .mx-auto.d-block :}
+<a name="too-many-daves"></a>
 
 -----
 

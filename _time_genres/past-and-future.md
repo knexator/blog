@@ -51,6 +51,7 @@ also advance in (at least) meta-time. This view of players as soul-givers also s
 free will: the player is controlling a single avatar, meaning that only that avatar is aware of the changes to the timeline. 
 
 Anyway, that's enough of that. Here are some games with this model of time:
+<a name="portal-reloaded"></a>
 
 -----
 
@@ -63,6 +64,7 @@ about them as 2 slightly different rooms with some extra constraints connecting 
 but mostly fair. Highly recommended.
 
 ![Portal Reloaded](https://cdn.akamai.steamstatic.com/steam/apps/1255980/ss_8613d0ae0307572e35295d15b091cf5d911a31cd.jpg){: .mx-auto.d-block :}
+<a name="day-of-the-tentacle"></a>
 
 -----
 

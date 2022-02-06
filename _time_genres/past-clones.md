@@ -12,6 +12,7 @@ and the world has changed, so the past player should be able to 'have chosen' di
 timing based puzzles about planning future actions, which makes it kind of timey enough for someone looking to make a puzzle about time travel.
 
 Here are some games with this model of time travel:
+<a name="the-company-of-myself"></a>
 
 -----
 
@@ -22,6 +23,7 @@ nostalgia might be biasing me, so I won't play it again to avoid it not living u
 please don't tell me).
 
 ![The Company of Myself](http://2darray.net/wp-content/uploads/2015/07/TheCompanyOfMyself_Screen7.jpg){: .mx-auto.d-block :}
+<a name="braid-world-5"></a>
 
 -----
 
@@ -33,6 +35,7 @@ the logical inconsistency of having the past player's actions be fixed in a chan
 with both worlds at once; this extra level of granularity adds some interesting consequences for the model. The overall game is, of course, highly recommended.
 
 ![Braid - World 5](https://cdn.cloudflare.steamstatic.com/steam/apps/26800/0000007892.600x338.jpg?t=1515716884){: .mx-auto.d-block :}
+<a name="some-other-games"></a>
 
 -----
 

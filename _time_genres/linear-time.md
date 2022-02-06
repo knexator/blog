@@ -7,6 +7,7 @@ tags: [time travel, puzzles]
 If [Glorified Undo](/time-genres/glorified-undo) is for games that _technically_ feature time travel but still don't belong in a list of games about
 time travel, this page is for games that _technically_ don't feature time travel but still fit with the general spirit of the blog. That is, games
 that make the player think about cause and effect, fate and free will, consistency and paradoxes, and the passage of time. Here they are:
+<a name="400-years"></a>
 
 -----
 
@@ -16,6 +17,7 @@ Short narrative game about waiting. The player's superpower is an incredible pat
 Well written, recommended.
 
 ![400 Years](https://static.wikia.nocookie.net/scriptwelder/images/f/f3/400_years.png){: .mx-auto.d-block :}
+<a name="velocity-raptor"></a>
 
 -----
 

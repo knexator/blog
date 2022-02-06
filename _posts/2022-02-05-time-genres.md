@@ -45,4 +45,47 @@ slow-down-time
 
 {% for time_genre in pending_time_genres %}
   - (WIP) [{{ time_genre.title}}]({{ time_genre.url }}) - {{ time_genre.subtitle }}
-{%- endfor -%}
+{%- endfor -%} <!-- -->
+
+-----
+
+Here's all the games listed on those articles:
+ - [Braid - World 3](/time-genres/spicy-undo#braid-world-3)
+ - [At the Hedges of Time](/time-genres/spicy-undo#at-the-hedges-of-time)
+ - [So broken](/time-genres/spicy-undo#so-broken)
+ - [Tres Undos](/time-genres/serialism#tres-undos)
+ - [Time Conundrum](/time-genres/closed-timelike-curve#time-conundrum)
+ - [Vision Soft Reset](/time-genres/standard#vision-soft-reset)
+ - [Too Many Daves](/time-genres/standard#too-many-daves)
+ - [The Company of Myself](/time-genres/past-clones#the-company-of-myself)
+ - [Braid - World 5](/time-genres/past-clones#braid-world-5)
+ - [The Misadventures of P.B. Winterbottom](/time-genres/past-clones#some-other-games)
+ - [Time Master](/time-genres/past-clones#some-other-games)
+ - [Chronotron](/time-genres/past-clones#some-other-games)
+ - [Cursor*10](/time-genres/past-clones#some-other-games)
+ - [The Talos Principle](/time-genres/past-clones#some-other-games)
+ - [Holosaur](/time-genres/past-clones#some-other-games)
+ - [Induction](/time-genres/fake-causal-loop#induction)
+ - [Block Pushing Puzzle Game But With Time Travel](/time-genres/fake-causal-loop#block-pushing-puzzle-game-but-you-can-time-travel)
+ - [Portal Reloaded](/time-genres/past-and-future#portal-reloaded)
+ - [Day of the Tentacle](/time-genres/past-and-future#day-of-the-tentacle)
+ - [Chiasm](/time-genres/tenet#chiasm)
+ - [5D Chess With Multiverse Time Travel](/time-genres/multiverse-time-travel#5d-chess-with-multiverse-time-travel)
+ - [400 Years](/time-genres/linear-time#400-years)
+ - [Velocity Raptor](/time-genres/linear-time#velocity-raptor)
+ - [A Slower Speed of Light](/time-genres/linear-time#velocity-raptor)
+ - [Braid - World 6](/time-genres/slow-down-time#braid-world-6)
+ - [Timespinner](/time-genres/slow-down-time#timespinner)
+
+-----
+
+And here's my TODO list:
+ - [Relash](https://store.steampowered.com/app/1713260/Relash/)
+ - [Sig.NULL](https://store.steampowered.com/app/501930/SigNULL/)
+ - [Causality](https://store.steampowered.com/app/559930/Causality/)
+ - [Z-Time](https://www.youtube.com/watch?v=ONOc7IND58w)
+ - [Thanks for Playing](https://www.youtube.com/watch?v=P3yvqo5mHnw)
+ - [Save Scummer](http://www.zincland.com/7drl/savescummer/)
+ - [Minit](https://store.steampowered.com/app/609490/Minit/)
+ - [DROD: The Second Sky](https://store.steampowered.com/app/351320/DROD_The_Second_Sky/)
+ 

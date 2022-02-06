@@ -14,6 +14,7 @@ could explore and interact with the world while travelling backwards in time? Th
 a film in which time machines act only as "turnstiles" which swap which time direction the traveler advancing it (from the usual 1 second per 
 second, to a shocking -1 second per second). This intriguing flavor of time-reversed travelers can be applied to most models. Here are some
 games that do that:
+<a name="chiasm"></a>
 
 -----
 
@@ -27,5 +28,3 @@ model. Highly recommended.
 ![Chiasm](https://cdn.akamai.steamstatic.com/steam/apps/1556550/ss_2bba7534de7bb2cddf4e2b91443500fd0aa44ac0.600x338.jpg){: .mx-auto.d-block :}
 
 -----
-
-<!-- pending: https://store.steampowered.com/app/1713260/Relash/? -->

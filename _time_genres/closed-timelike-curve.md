@@ -30,6 +30,7 @@ back the next package is sent to the past. The player must be able to think abou
 avatar, and instead let the player freely scrub through time.
 
 Here are some games with this model of time travel:
+<a name="time-conundrum"></a>
 
 -----
 
