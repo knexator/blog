@@ -10,7 +10,7 @@ temporal dimensions? By this, I don't mean having 2 time-like dimensions in Gene
 words, that we must ask "Where is the object at time (t1, t2)?". This extra time coordinate has a lot of unexpected effects; let's explore them!
 TLDR: the end result will be pretty disappointing, but the road to get there has some interesting twists.
 
-Let's start by making some diagrams. One dimensional time might look something like this:
+Let's start by making some diagrams. One-dimensional time might look something like this:
 
 ![1d-time](../../assets/img/time-2d-diagram-1.png){: .mx-auto.d-block :}
 
@@ -27,7 +27,7 @@ Simple enough. Let's add an extra time dimension to the mix:
 
 Causality now advances in two directions: left to right, and down to up. The first notable effect is that time no longer divides cleanly in
 Past and Future: there's also the Weird Present. Let's consider the event B: B can't cause A, since A happens before B (with respect to horizontal time), and B can't be caused
-by A since B happens after A (with respect to vertical time). We will say that B is in the Weird Present of A, meaning that 
+by A since A happens after B (with respect to vertical time). We will say that B is in the Weird Present of A, meaning that 
 there is no causal chain between A and B. Does this mean that these
 two events are completely independent? No: observing one will tell us information about the other. To see this, consider the following example:
 
@@ -58,17 +58,17 @@ these lines have some constraints: no point of the line is the past or future of
 the up-right direction, only down-right). If not, there would be a timeline-like line which contained both points, meaning that
 that timeline would see the "egg hatching" event twice. We will call lines with this property event-like.
 
-In 1 dimensional time, with point-like events, the order is always clear. However, in the diagram, there seems to be an
+In 1D time, with point-like events, the order is always clear. However, in the diagram, there seems to be an
 interesting property of these event-lines: they can cross, meaning that the events aren't objectively ordered. Is this
-some exciting property of 2 dimensional time? No: the event lines can cross only if their order makes no measurable difference.
+some exciting property of 2D time? No: the event lines can cross only if their order makes no measurable difference.
 There can't be a third object whose final state depends on the ordering of "egg hatching" and "quarter moon": if there was,
 it would have a single state at the end, meaning that all timelike-line lines reaching that point saw the same order of events.
 
-My main motivation for thinking about 2 dimensional time was that the number of events that it could fit would grow
+My main motivation for thinking about two-dimensional time was that the number of events that it could fit would grow
 quadratically instead of linearly. We now see that that isn't the case: we added an extra dimension of time and in 
 return got an extra dimension of events, leaving us back with a linear number of events. In this sense, a story in two-dimensional
 time loses nothing if you pick any timeline-like line inside and follow it, forgetting about everything that happens outside it.
 Oh well, the road here was kind of fun. Despite everything, if anyone finds or creates some game (or book, or anything) that uses
-2 dimensions of time in an interesting and consistent way, I'd love to hear about it!
+a second dimension of time in an interesting and consistent way, I'd love to hear about it!
 
 -----

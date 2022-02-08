@@ -22,7 +22,7 @@ Story-heavy puzzle platformer from 2009. I remember it as perfect, with clever p
 nostalgia might be biasing me, so I won't play it again to avoid it not living up to my expectations. Highly recommended (if not,
 please don't tell me).
 
-![The Company of Myself](http://2darray.net/wp-content/uploads/2015/07/TheCompanyOfMyself_Screen7.jpg){: .mx-auto.d-block :}
+![The Company of Myself](../../assets/img/the-company-of-myself.jpg){: .mx-auto.d-block :}
 <a name="braid-world-5"></a>
 
 -----
@@ -30,7 +30,7 @@ please don't tell me).
 ### [Braid - World 5](https://store.steampowered.com/app/26800/Braid/) by Jon Blow
 
 Braid's World 5 nicely ties the Past Clones mechanic with its undo: after undoing, there will be a shadow copy of the world performing
-any undoed actions. This is shown as a parallel, discarded timeline: the shadow player will only interact with the shadow world, avoiding
+any undone actions. This is shown as a parallel, discarded timeline: the shadow player will only interact with the shadow world, avoiding
 the logical inconsistency of having the past player's actions be fixed in a changed world. Some special glowing objects do interact
 with both worlds at once; this extra level of granularity adds some interesting consequences for the model. The overall game is, of course, highly recommended.
 
@@ -53,7 +53,7 @@ Some other games featuring this model (I don't feel like writing about every sin
 ## Variants & future work
 
 You might have guessed it from the rest of the article, but I'm not too fond of this model. Most of the time it's fiddly, requiring either 
-superhuman amounts of precise planning or waiting forever while on a button 'just in case', and in general it breaks one of the gold rules of
+superhuman amounts of precise planning or waiting forever while on a button 'just in case', and in general it breaks one of the golden rules of
 puzzle games: a solution should take more time to figure out than to execute. I think these flaws could mostly be solved by allowing the
 player to freely scrub through the timeline to correct minor mistakes or avoid long waits, but surprisingly I haven't yet seen a game that
 does this (apparently easy) fix. If you do, please contact me, so I can feature it here.

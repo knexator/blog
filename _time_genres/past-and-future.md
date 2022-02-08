@@ -1,6 +1,6 @@
 ---
 title: Past and Future
-subtitle: Travel between 2 versions of the same space 
+subtitle: Travel between two versions of the same space 
 tags: [time travel, puzzles]
 ---
 
@@ -59,7 +59,7 @@ Anyway, that's enough of that. Here are some games with this model of time:
 
 Free mod for Portal 2 that adds a Time Portal, allowing the player to travel between past and future versions of the same chamber. Changing stuff
 in the past will affect the future, and you may take cubes back into the past. Puzzles are pretty good, even though there are some unintended solutions
-and small timing elements. The time travel doesn't really make sense (why can't a past cube go into the future?); the levels gets easier if you think
+and small timing elements. The time travel doesn't really make sense (why can't a past cube go into the future?); the levels get easier if you think
 about them as 2 slightly different rooms with some extra constraints connecting them, instead of thinking about it as time travel. Really challenging
 but mostly fair. Highly recommended.
 
@@ -73,5 +73,16 @@ but mostly fair. Highly recommended.
 Classic graphic adventure game about controlling 3 characters stuck in 3 different time periods. I haven't played it.
 
 ![Day of the Tentacle](https://cdn.akamai.steamstatic.com/steam/apps/388210/ss_a9f405ea5c4404e1063dec5b21a9bc9eb45d0353.jpg){: .mx-auto.d-block :}
+<a name="banjo-kazooie"></a>
+
+-----
+
+### [Banjo-Kazooie - Click Clock Wood](https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)) by Rare
+
+Classic 3D platforming game for the Nintendo 64. One of the levels, Click Clock Wood, features the same world in all 4 seasons. Changing the season will change the general
+look and feel of the level (for example, winter features slippery ice). In addition, the player's actions in one season can affect the next ones: plant a seed in spring,
+water it in summer, and it will bloom on the fall. I haven't played it.
+
+![Banjo-Kazooie - Click Click Wood](../../assets/img/banjo-kazooie.jfif){: .mx-auto.d-block :}
 
 -----
