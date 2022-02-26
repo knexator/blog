@@ -69,6 +69,7 @@ Here's all the games listed on those articles:
  - [Block Pushing Puzzle Game But With Time Travel](/time-genres/fake-causal-loop#block-pushing-puzzle-game-but-you-can-time-travel)
  - [Portal Reloaded](/time-genres/past-and-future#portal-reloaded)
  - [Day of the Tentacle](/time-genres/past-and-future#day-of-the-tentacle)
+ - [Banjo Kazooie - Click Clock Wood](/time-genres/past-and-future#banjo-kazooie)
  - [Chiasm](/time-genres/tenet#chiasm)
  - [5D Chess With Multiverse Time Travel](/time-genres/multiverse-time-travel#5d-chess-with-multiverse-time-travel)
  - [400 Years](/time-genres/linear-time#400-years)
@@ -92,3 +93,4 @@ And here's my TODO list:
  - [Redux](https://store.steampowered.com/app/1676560/Redux/)
  - [Forgotten City](https://store.steampowered.com/app/874260/The_Forgotten_City/)
  - [Zero Escape Trilogy](https://store.steampowered.com/bundle/2638/Zero_Escape_Trilogy/)
+ - [THE LONGING](https://store.steampowered.com/app/893850/THE_LONGING/)

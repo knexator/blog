@@ -45,7 +45,7 @@ than individual puzzles. Highly recommended.
 
 ## Variants & future work
 
-A common trope of this model is that the player will actively try not see the surrounding level, to give room
+A common trope of this model is that the player will actively try not to see the surrounding level, to give room
 to their future selves. I think existing games don't stretch this idea as far as it can go. In particular, I'd like to see a game
 about moving objects around, where the player might choose to hide an object in a box to avoid seeing it. So, in the first run,
 the player might carry an empty box from A to B; they then travel back in time and, without their first self seeing them, store something

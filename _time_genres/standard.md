@@ -48,6 +48,6 @@ see this jam entry explored as a more complete game. Highly recommended.
 I started this article with the idea of compiling all the games where in each level you play through once to obtain some key object,
 send it back in time, and play through again with that key object providing a new route through the level. I haven't been able to find
 a single game like this; this might be a signal that the premise is flawed and would lead to a boring, repetitive gameplay, or that
-I'm pretty bad at searching stuff, or that no one has got around to making it. If you find any games on this genre, please contact me!
+I'm pretty bad at searching stuff, or that no one has gotten around to making it. If you find any games on this genre, please contact me!
 
 -----

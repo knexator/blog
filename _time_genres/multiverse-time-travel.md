@@ -19,7 +19,7 @@ in which we might travel too. This has some wild consequences; here are some gam
 ### [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/) by Conor Petersen
 
 I love this game; it takes a ludicrous idea and carries it to its full extent. Before playing, I worried that it would be too
-overwhelming, specially since I lack a solid foundation in chess, but the game is surprisingly approachable, and you'll soon find
+overwhelming, especially since I lack a solid foundation in chess, but the game is surprisingly approachable, and you'll soon find
 yourself having fun. In addition, the well-designed and executed core idea is wrapped in a polished package with great sounds, graphics, and general feel.
 Extremely recommended.
 

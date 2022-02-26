@@ -11,7 +11,7 @@ time, you must sit inside the machine for 6 hours. Maybe in the Primer universe 
 time machines, where it only takes 1 subjective hour to travel back 6. Still, this voyage isn't too interesting: the traveler must sit inside a
 tiny box, much like an astronaut. Which gets us to the main point of this post: what if the time traveler wasn't confined to their machine but
 could explore and interact with the world while travelling backwards in time? This is the core idea of [Tenet](https://en.wikipedia.org/wiki/Tenet_(film)),
-a film in which time machines act only as "turnstiles" which swap which time direction the traveler advancing it (from the usual 1 second per 
+a film in which time machines act only as "turnstiles" which swap the time direction of the traveler (from the usual 1 second per 
 second, to a shocking -1 second per second). This intriguing flavor of time-reversed travelers can be applied to most models. Here are some
 games that do that:
 <a name="chiasm"></a>
