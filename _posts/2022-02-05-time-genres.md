@@ -88,4 +88,7 @@ And here's my TODO list:
  - [Save Scummer](http://www.zincland.com/7drl/savescummer/)
  - [Minit](https://store.steampowered.com/app/609490/Minit/)
  - [DROD: The Second Sky](https://store.steampowered.com/app/351320/DROD_The_Second_Sky/)
- 
+ - [Mushroom Engine](https://www.hempuli.com/games/games.php?title=jom)
+ - [Redux](https://store.steampowered.com/app/1676560/Redux/)
+ - [Forgotten City](https://store.steampowered.com/app/874260/The_Forgotten_City/)
+ - [Zero Escape Trilogy](https://store.steampowered.com/bundle/2638/Zero_Escape_Trilogy/)
