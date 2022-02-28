@@ -39,7 +39,9 @@ machine and return the universe to the moment before taking the action. If there
 the resulting timeline. Inhabitants of this universe would have a very unique experience: from their point of view, the machine has
 never been activated, but they've been much luckier since it was created.
 
-I haven't yet found a game that uses this real-player-also-affected-by-undo variant. Assuming it's impossible for a video game to mess with the actual
+<a name="save-scummer"></a>
+
+I haven't yet found a game that uses this real-player-also-affected-by-undo variant (edit: see below!). Assuming it's impossible for a video game to mess with the actual
 player's memories (or timeline!), the effect will have to be achieved by only letting the player see the final timeline, meaning that they will have to interact
 with the mistaken-timelines without ever seeing them. How would such a game look? I think it could work well as a zachtronics game:
 the player must design a contraption/program/etc with access to an undo machine and some source of randomness.
@@ -48,4 +50,7 @@ successful attempt in which all the randomness conspires to solve the problem, o
 I'm not sure that such a game would be interesting; besides, executing the players' creation and finding the appropriate timeline is in general an NP-hard problem.
 Still, if you see (or create) a game like this, please contact me & I'll feature it here!
 
+Update: JumbleTheCircle found a game in this category! [Save Scummer](http://www.zincland.com/7drl/savescummer/) by Jeff Lait is a
+tongue-in-cheek roguelike where most actions are done automatically, leaving the player the only truly important choice: when to save and load.
+When the game's randomness conspires against you, simply undo a bit and try again until you get lucky! Fun experience, highly recommended.
 -----

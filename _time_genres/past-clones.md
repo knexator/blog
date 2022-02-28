@@ -46,6 +46,7 @@ Some other games featuring this model (I don't feel like writing about every sin
  - [Cursor*10](https://www.youtube.com/watch?v=ZaMG3DdnAdI)
  - Parts of [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/)
  - [Holosaur](https://daem-on.itch.io/holosaur)
+ - Parts of [DROD: The Second Sky](https://store.steampowered.com/app/351320/DROD_The_Second_Sky/)
  - etc.
 
 -----

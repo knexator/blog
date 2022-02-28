@@ -39,6 +39,18 @@ Here are some games with this model of time travel:
 Puzzle-hunt style conundrum about sending objects back and forward in time. Explores the theme to its full potential with mechanics such as 
 calculating the age of a time travelling object. It's a bit grindy for my taste, but it does have several twists and eureka moments.
 Highly recommended.
+<a name="causality"></a>
+
+-----
+
+### [Causality](https://store.steampowered.com/app/559930/Causality/)
+
+I kept ignoring this game since the trailer made it seem like yet another generic [Past Clones](/time-genres/past-clones) casual game.
+I'm happy to say I was wrong: the player can freely scub through the timeline, scheduling actions and seeing how they play out. The
+game takes a while to introduce time travel, and the levels are sometimes too constrained, but overall it's one of the best mobile
+puzzle games I've played. Highly recommended.
+
+![Causality](https://cdn.cloudflare.steamstatic.com/steam/apps/559930/ss_d6bdb149b5cb61b10e44475ce6f543db6b5531b2.jpg){: .mx-auto.d-block :}
 
 -----
 
