@@ -95,5 +95,7 @@ And here's my TODO list:
  - [Redux](https://store.steampowered.com/app/1676560/Redux/)
  - [Forgotten City](https://store.steampowered.com/app/874260/The_Forgotten_City/)
  - [Zero Escape Trilogy](https://store.steampowered.com/bundle/2638/Zero_Escape_Trilogy/)
- - [The Legend of Zelda: Oracle of Seasons]
- - [The Legend of Zelda: Oracle of Ages]
+ - [The Legend of Zelda: Oracle of Seasons](https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons)
+ - [The Legend of Zelda: Oracle of Ages](https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Oracle_of_Ages)
+ - [Yon Paradox](https://store.steampowered.com/app/450050/Yon_Paradox/)
+ - [The Chronos Principle](https://store.steampowered.com/app/1651930/The_Chronos_Principle/)
