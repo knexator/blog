@@ -30,6 +30,17 @@ back the next package is sent to the past. The player must be able to think abou
 avatar, and instead let the player freely scrub through time.
 
 Here are some games with this model of time travel:
+<a name="chrontraption"></a>
+
+-----
+
+### [chrontraption](https://knexator.itch.io/chrontraption) by knexator
+
+Casual fun puzzle about a Rube Goldberg machine with time travel elements. Schedule things arriving from the future, and avoid paradoxes by
+figuring out how to get all of them back to the past. The core concept and setting is all thanks to TopH; the game is also heavily inspired
+by [Monstrüous](https://nonomiyo.itch.io/monstruous). I had to cut a lot of corners when making this game - the number of animations grows exponentially-ish, and controlling that growth took priority over improving the game. Still, highly recommended (I might be biased on this one)
+
+![chrontraption](../../assets/img/chrontraption.png){: .mx-auto.d-block :}
 <a name="time-conundrum"></a>
 
 -----
@@ -45,7 +56,7 @@ Highly recommended.
 
 ### [Causality](https://store.steampowered.com/app/559930/Causality/)
 
-I kept ignoring this game since the trailer made it seem like yet another generic [Past Clones](/time-genres/past-clones) casual game.
+I kept ignoring this game since the trailer made it seem like yet another generic [Record Clones](/time-genres/record-clones) casual game.
 I'm happy to say I was wrong: the player can freely scub through the timeline, scheduling actions and seeing how they play out. The
 game takes a while to introduce time travel, and the levels are sometimes too constrained, but overall it's one of the best mobile
 puzzle games I've played. Highly recommended.

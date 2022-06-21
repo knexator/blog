@@ -20,7 +20,7 @@ games that do that:
 
 ### [Chiasm](https://store.steampowered.com/app/1556550/Chiasm/) by Tim Fowers
 
-Short puzzle game about reversing the time flow of yourself and other objects. The game uses the [Past Clones](/time-genres/past-clones) model,
+Short puzzle game about reversing the time flow of yourself and other objects. The game uses the [Record Clones](/time-genres/record-clones) model,
 but the Tenet flavor removes most of the usual fiddliness. It also has some [Spicy Undo](/time-genres/spicy-undo), with boxes immune to time-reversal.
 The logic is simple, consistent, and interesting, and the levels are perfectly crafted to showcase all the interesting consequences of the time travel
 model. Highly recommended.

@@ -47,7 +47,7 @@ of the change (thinking that the new design has always been there), except for t
 gives an answer to this phenomenon: while all material objects change with respect to time, the human soul lives in meta-meta-meta-...-time,
 meaning that we experience the one and only objective time: if someone were to travel in time and change history, we would advance in meta-time to
 the new timeline and be aware of the changes. With this explanation, we can imagine that a player gives soul to the avatars they control, making them
-also advance in (at least) meta-time. This view of players as soul-givers also serves to explain why [Past Clones](/time-genres/past-clones) have no
+also advance in (at least) meta-time. This view of players as soul-givers also serves to explain why [Record Clones](/time-genres/record-clones) have no
 free will: the player is controlling a single avatar, meaning that only that avatar is aware of the changes to the timeline. 
 
 Anyway, that's enough of that. Here are some games with this model of time:

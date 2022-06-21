@@ -4,7 +4,7 @@ subtitle: Build a consistent timeline, step by step
 tags: [time travel, puzzles]
 ---
 
-Some games in the [Past Clones](/time-genres/past-clones) genre impose an extra restriction: your past selves must not see your current self.
+Some games in the [Record Clones](/time-genres/record-clones) genre impose an extra restriction: your past selves must not see your current self.
 This might seem like a small (and annoying) change, but it does imply a different underlying model of time: each travel isn't creating a parallel
 timeline (in which your past self has lost all free will for some unexplained reason); it's taking you to the same unique, unchanging timeline,
 in which you simply never saw your future self. This is an ingenious way to make a game based on the [Closed Timelike Curve](/time-genres/closed-timelike-curve)
@@ -35,7 +35,7 @@ this as soon as I play it.
 
 
 It's a block pushing game, but... with time travel!. Being grid-based and having undo makes it much less fiddly than the average 
-[Past Clones](/time-genres/past-clones) game. It will take some active thought to understand what is going on, so you might be tempted
+[Record Clones](/time-genres/record-clones) game. It will take some active thought to understand what is going on, so you might be tempted
 to key smash randomly until stuff works: don't. Overall a good game. The game feels more about learning general tricks and techniques
 than individual puzzles. Highly recommended.
 

@@ -13,7 +13,7 @@ characters are allowed to alter history without the threat of paradox.
 I might be biased by calling this the "Standard" model, but it
 seems like the most natural option and the one I see most in fiction. Weirdly, there are very few games that truly fit into this
 category without adding some extra restriction: we get [Glorified Undo](/time-genres/glorified-undo) by forcing the time machine to
-not carry any objects back, and [Past Clones](/time-genres/past-clones) by removing the old character's free will in the new timeline.
+not carry any objects back, and [Record Clones](/time-genres/record-clones) by removing the old character's free will in the new timeline.
 
 Games with a "New Game+" that allow you to restart the game with your final inventory fit into this category, but aren't listed since
 that mechanic isn't their focus. Excluding those, here are some games with this model of time travel:
@@ -35,7 +35,7 @@ and reach new areas. The game features a wonderful timeline tree that allows you
 
 ### [Too Many Daves](https://pancelor.itch.io/too-many-daves-gmtk2021) by pancelor
 
-Short sokoban puzzler about travelling back in time. Unlike the games in the [Past Clones](/time-genres/past-clones) model, seeing your
+Short sokoban puzzler about travelling back in time. Unlike the games in the [Record Clones](/time-genres/record-clones) model, seeing your
 future self will alter the actions of a past self. The game also has some [Spicy Undo](/time-genres/spicy-undo) mechanics. Would love to
 see this jam entry explored as a more complete game. Highly recommended.
 

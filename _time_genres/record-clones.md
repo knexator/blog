@@ -1,5 +1,5 @@
 ---
-title: Past Clones
+title: Record Clones
 subtitle: Record your actions and play them back later
 tags: [time travel, puzzles]
 ---
@@ -29,7 +29,7 @@ please don't tell me).
 
 ### [Braid - World 5](https://store.steampowered.com/app/26800/Braid/) by Jon Blow
 
-Braid's World 5 nicely ties the Past Clones mechanic with its undo: after undoing, there will be a shadow copy of the world performing
+Braid's World 5 nicely ties the Record Clones mechanic with its undo: after undoing, there will be a shadow copy of the world performing
 any undone actions. This is shown as a parallel, discarded timeline: the shadow player will only interact with the shadow world, avoiding
 the logical inconsistency of having the past player's actions be fixed in a changed world. Some special glowing objects do interact
 with both worlds at once; this extra level of granularity adds some interesting consequences for the model. The overall game is, of course, highly recommended.
@@ -39,7 +39,7 @@ with both worlds at once; this extra level of granularity adds some interesting 
 
 -----
 
-Some other games featuring this model (I don't feel like writing about every single Past Clones game):
+Some other games featuring this model (I don't feel like writing about every single Record Clones game):
  - [The Misadventures of P.B. Winterbottom](https://store.steampowered.com/app/40930/The_Misadventures_of_PB_Winterbottom)
  - [Time Master](https://store.steampowered.com/app/1486080/Time_Master/)
  - [Chronotron](https://www.kongregate.com/games/Scarybug/chronotron)
