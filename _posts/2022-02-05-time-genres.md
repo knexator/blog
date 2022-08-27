@@ -51,6 +51,7 @@ slow-down-time
 -----
 
 Here's all the games listed on those articles, starting with the most recently added:
+ - [Snakanake](/time-genres/tenet#snakanake)
  - [chrontraption](/time-genres/closed-timelike-curve#chrontraption)
  - [Save Scummer](/time-genres/glorified-undo#save-scummer)
  - [Braid - World 3](/time-genres/spicy-undo#braid-world-3)

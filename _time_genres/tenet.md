@@ -26,5 +26,14 @@ The logic is simple, consistent, and interesting, and the levels are perfectly c
 model. Highly recommended.
 
 ![Chiasm](https://cdn.akamai.steamstatic.com/steam/apps/1556550/ss_2bba7534de7bb2cddf4e2b91443500fd0aa44ac0.600x338.jpg){: .mx-auto.d-block :}
+<a name="snakanake"></a>
+
+-----
+
+### [Snakanake](https://knexator.itch.io/snakanake) by knexator
+
+Snake but every pellet you eat reverses the flow of time. In other words, around half of the [Recorded Clones](/time-genres/record-clones) will be going backwards relative to you. At its core, it's a memory game: without some recollection of when and where snakes are, they will seem to unfairly appear out of thin air and collide against you. My high score is 11. Somewhat recommended.
+
+![Snakanake](https://img.itch.zone/aW1nLzk2MDk0MjUucG5n/315x250%23c/LptyLD.png){: .mx-auto.d-block :}
 
 -----
