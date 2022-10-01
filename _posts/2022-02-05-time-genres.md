@@ -54,6 +54,7 @@ Here's all the games listed on those articles, starting with the most recently a
  - [Snakanake](/time-genres/tenet#snakanake)
  - [chrontraption](/time-genres/closed-timelike-curve#chrontraption)
  - [Save Scummer](/time-genres/glorified-undo#save-scummer)
+ - [Thinking with Time Machine](/time-genres/record-clones#some-other-games)
  - [Braid - World 3](/time-genres/spicy-undo#braid-world-3)
  - [At the Hedges of Time](/time-genres/spicy-undo#at-the-hedges-of-time)
  - [So broken](/time-genres/spicy-undo#so-broken)

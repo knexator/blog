@@ -47,6 +47,7 @@ Some other games featuring this model (I don't feel like writing about every sin
  - Parts of [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/)
  - [Holosaur](https://daem-on.itch.io/holosaur)
  - Parts of [DROD: The Second Sky](https://store.steampowered.com/app/351320/DROD_The_Second_Sky/)
+ - [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking_with_Time_Machine/)
  - etc.
 
 -----
