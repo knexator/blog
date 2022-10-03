@@ -35,5 +35,13 @@ model. Highly recommended.
 Snake but every pellet you eat reverses the flow of time. In other words, around half of the [Recorded Clones](/time-genres/record-clones) will be going backwards relative to you. At its core, it's a memory game: without some recollection of when and where snakes are, they will seem to unfairly appear out of thin air and collide against you. My high score is 11. Somewhat recommended.
 
 ![Snakanake](https://img.itch.zone/aW1nLzk2MDk0MjUucG5n/315x250%23c/LptyLD.png){: .mx-auto.d-block :}
+<a name="renew-my-subscription"></a>
 
 -----
+
+### [Renew my Subscription](https://cassowary.itch.io/renew-my-subscription)
+Fun puzzle about visiting all houses in less than 10 seconds. Reverse the flow of time stay in schedule, but don't run into your past selves! Short, expressive, and satisfying; not too thinky, doesn't overstay it's welcome. Extremely recommended.
+
+![Renew my Subscription](https://img.itch.zone/aW1nLzEwMTgzODc3LnBuZw==/315x250%23c/OH%2FMym.png){: .mx-auto.d-block :}
+
+
