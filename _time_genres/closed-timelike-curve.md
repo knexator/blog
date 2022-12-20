@@ -29,7 +29,7 @@ ground up for this model of time travel can do much more exciting stuff: for exa
 back the next package is sent to the past. The player must be able to think about the whole timeline, so it's common for these games to not have an
 avatar, and instead let the player freely scrub through time.
 
-Here are some games with this model of time travel:
+Here are some time travel games about building a single, consistent timeline, with or without extra input beyond choosing what arrives from the future:
 <a name="chrontraption"></a>
 
 -----
