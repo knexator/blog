@@ -51,7 +51,7 @@ Fun puzzle about visiting all houses in less than 10 seconds. Reverse the flow o
 
 Block pusher with gravity (like [these](https://thinkycollective.itch.io/ahoist-cratey) [two](https://thinkycollective.itch.io/indiana-hat-and-the-temple-of-puzz) from the Thinky Collective) where some boxes experience time backwards - turns out, there's a big difference between dropping and un-picking! The clever concept, neat difficulty curve, and interesting puzzles make this an extremely recommended.
 
-Fun fact: According to [the creator, TopH](https://tophwells.itch.io/), the game wouldn't exist without my public obsession with time travel puzzle games, so it means that the goal of this blog (get more people to make interesting time travel games) has been achieved! In a causality-bending twist, a good part of the reason of this blog's existence and my love of the possibilities of time travel puzzles come from hearing the idea that later became [chrontraption](/time-genres/closed-timelike-curve#chrontraption) - an idea that came from [TopH!](https://tophwells.itch.io/)
+Fun fact: According to [the creator, TopH](https://tophwells.itch.io/), the game wouldn't exist without my discussions about time travel puzzle games, so it means that the goal of this blog (get more people to make interesting time travel games) has been achieved! In a causality-bending twist, a good part of the reason of this blog's existence and my love of the possibilities of time travel puzzles come from hearing the idea that later became [chrontraption](/time-genres/closed-timelike-curve#chrontraption) - an idea that came from [TopH!](https://tophwells.itch.io/)
 
 ![Hourglass Temple](https://img.itch.zone/aW1nLzEwMjU2NTYyLnBuZw==/original/RTH%2FVA.png){: .mx-auto.d-block :}
 
