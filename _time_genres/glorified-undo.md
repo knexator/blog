@@ -33,7 +33,7 @@ are affected by the undo? We then get [Spicy Undo](/time-genres/spicy-undo).
 ### [Save Scummer](http://www.zincland.com/7drl/savescummer/) by Jeff Lait
 
 A tongue-in-cheek roguelike where most actions are done automatically, leaving the player the only truly important choice: when to save and load.
-When the game's randomness conspires against you, simply undo a bit and try again until you get lucky! Fun short experience, highly recommended - thanks to JumbleTraveling for suggesting it.
+When the game's randomness conspires against you, simply undo a bit and try again until you get lucky! Fun short experience, highly recommended - thanks to MistyMysticSailboat for suggesting it.
 
 ![Save Scummer](../../assets/img/save-scummer.png){: .mx-auto.d-block :}
 

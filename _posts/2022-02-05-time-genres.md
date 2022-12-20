@@ -51,6 +51,7 @@ slow-down-time
 -----
 
 Here's all the games listed on those articles, starting with the most recently added:
+ - [Hourglass Temple](/time-genres/tenet#hourglass-temple)
  - [Renew my Subscription](/time-genres/tenet#renew-my-subscription)
  - [Snakanake](/time-genres/tenet#snakanake)
  - [chrontraption](/time-genres/closed-timelike-curve#chrontraption)

@@ -36,9 +36,7 @@ Here are some games with this model of time travel:
 
 ### [chrontraption](https://knexator.itch.io/chrontraption) by knexator
 
-Casual fun puzzle about a Rube Goldberg machine with time travel elements. Schedule things arriving from the future, and avoid paradoxes by
-figuring out how to get all of them back to the past. The core concept and setting is all thanks to TopH; the game is also heavily inspired
-by [Monstrüous](https://nonomiyo.itch.io/monstruous). I had to cut a lot of corners when making this game - the number of animations grows exponentially-ish, and controlling that growth took priority over improving the game. Still, highly recommended (I might be biased on this one)
+Casual fun puzzle about a Rube Goldberg machine with time travel elements. Schedule things arriving from the future, and avoid paradoxes by figuring out how to get all of them back to the past. The core concept and setting is all thanks to [TopH](https://tophwells.itch.io/); the game is also heavily inspired by [Monstrüous](https://nonomiyo.itch.io/monstruous). I had to cut a lot of corners when making this game - the number of animations grows exponentially-ish, and controlling that growth took priority over improving the game. Still, highly recommended (I might be biased on this one)
 
 ![chrontraption](../../assets/img/chrontraption.png){: .mx-auto.d-block :}
 <a name="time-conundrum"></a>
