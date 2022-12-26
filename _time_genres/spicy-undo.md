@@ -43,6 +43,15 @@ well-designed. The addition of a 'Redo' button gives the player a lot of power, 
 
 Highly recommended.
 ![So broken](https://img.itch.zone/aW1hZ2UvOTU4MDcvNDUyNDY0LnBuZw==/original/M3HSAv.png){: .mx-auto.d-block :}
+<a name="achronal-dungeon"></a>
+
+-----
+
+### [Achronal Dungeon](https://patashu.itch.io/achronal-dungeon) by Patashu
+
+Made for [2022's Confounding Calendar](https://confoundingcalendar.itch.io/), this single-screen challenge adds a Spicy Undo twist to optimization RPGs, such as [Tower of the Sorcerer](https://tig.fandom.com/wiki/Tower_of_the_Sorcerer) or [Tactical Nexus](https://store.steampowered.com/app/1141290/Tactical_Nexus/). The player must choose what items to make immune to undo, a twist rarely seen in the genre. Doesn't take long and has multiple interesting endings. Highly recommended.
+
+![Achronal Dungeon](https://img.itch.zone/aW1nLzEwNTMzNjQxLnBuZw==/315x250%23c/rzoLkn.png){: .mx-auto.d-block :}
 
 -----
 

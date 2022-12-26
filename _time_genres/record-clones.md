@@ -35,6 +35,15 @@ the logical inconsistency of having the past player's actions be fixed in a chan
 with both worlds at once; this extra level of granularity adds some interesting consequences for the model. The overall game is, of course, highly recommended.
 
 ![Braid - World 5](https://cdn.cloudflare.steamstatic.com/steam/apps/26800/0000007892.600x338.jpg?t=1515716884){: .mx-auto.d-block :}
+<a name="another-clone"></a>
+
+-----
+
+### [Another Clone](https://knexator.itch.io/another-clone) by knexator
+
+My take on the genre. It is presented as programming robots instead of time travel, which fixes two problems: it makes it natural to scrub through the timeline and fix early mistakes, and removes the inconsistency of past players always acting the same. Unlike most of the games in the genre, all the clones will perform a single set of actions (instead of each one reliving a different 'life'), which in my opinion makes the puzzles more interesting (but it limits the number of possible puzzles). Highly recommended (but i'm biased on this one).
+
+![Another Clone](https://img.itch.zone/aW1nLzEwNTk5NDY4LmdpZg==/original/ayDBgA.gif){: .mx-auto.d-block :}
 <a name="some-other-games"></a>
 
 -----

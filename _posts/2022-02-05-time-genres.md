@@ -51,6 +51,8 @@ slow-down-time
 -----
 
 Here's all the games listed on those articles, starting with the most recently added:
+ - [Another Clone](/time-genres/record-clones#another-clone)
+ - [Achronal Dungeon](/time-genres/spicy-undo#achronal-dungeon)
  - [Hourglass Temple](/time-genres/tenet#hourglass-temple)
  - [Renew my Subscription](/time-genres/tenet#renew-my-subscription)
  - [Snakanake](/time-genres/tenet#snakanake)
@@ -115,4 +117,13 @@ And here's my TODO list:
  - [Nomori](https://www.youtube.com/watch?v=epP42ECZV3g)
  - [Meet me at NooN](https://store.steampowered.com/app/1880490/Meet_me_at_NooN/)
  - [The Last Clockwinder](https://store.steampowered.com/app/1755100/The_Last_Clockwinder/)
+ - [Fort Loop](https://deepnight.itch.io/fort-loop)
+ - [Hourglass](https://store.steampowered.com/app/1212410/Hourglass/)
+ - [Split](https://store.steampowered.com/app/743380/Split__manipulate_time_make_clones_and_solve_cyber_puzzles_from_the_future/)
+ - [Time Master](https://store.steampowered.com/app/1486080/Time_Master/)
+ - [Chronoraptor](https://store.steampowered.com/app/1049000/Chronoraptor/)
+ - [Rad Board Rewind](https://alexrose.itch.io/rad-boar-rewind)
+ - [A Time Paradox](https://store.steampowered.com/app/1167730/A_Time_Paradox/)
+ - [Nomori](https://store.steampowered.com/app/2092190/Nomori_Prologue/)
+ - [Push Stack](https://steven-miller.itch.io/push-stack)
  - [the ever growing list of games tagged as "time travel" on itch.io](https://itch.io/search?q=time+travel)
