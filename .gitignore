@@ -13,3 +13,5 @@ Gemfile.lock
 beautiful-jekyll-theme-*.gem
 
 .vscode
+
+assets/microban-1/

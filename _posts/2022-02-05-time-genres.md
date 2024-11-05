@@ -94,6 +94,7 @@ Here's all the games listed on those articles, starting with the most recently a
 -----
 
 And here's my TODO list:
+ - [Theta and Paralldox on Worldlines](https://store.steampowered.com/app/3219580/Theta_and_Paralldox_on_Worldlines/)
  - [Timesweeper](https://marissaangell.itch.io/timesweeper)
  - [Time Turned](https://store.steampowered.com/app/2877110/Time_Turned/)
  - [Dolmen](https://torsk.itch.io/dolmen)
